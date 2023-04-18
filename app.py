@@ -1,4 +1,4 @@
-#jazelle and Liz
+#jazelle and Lizdelarosa
 #login and sing up created..
 #still need API, database, ..
 
